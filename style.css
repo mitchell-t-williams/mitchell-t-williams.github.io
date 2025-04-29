@@ -568,7 +568,7 @@ h3.profession {
 }
 .about .about-content .timeline .weblink {
   text-decoration: underline;
-  color: var(--text-black700);
+  color: var(--primary-color)
 }
 /* SERVICE */
 
