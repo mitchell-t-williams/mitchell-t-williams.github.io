@@ -563,7 +563,13 @@ h3.profession {
   text-align: justify;
   color: var(--text-black700);
 }
-
+.about .about-content .timeline .weblink:hover {
+  color: #55a3f1;
+}
+.about .about-content .timeline .weblink {
+  text-decoration: underline;
+  color: var(--text-black700);
+}
 /* SERVICE */
 
 .service .container {
